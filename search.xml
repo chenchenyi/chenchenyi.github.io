@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>折桂令·春情</title>
+      <link href="/2020/05/19/archaism-1/"/>
+      <url>/2020/05/19/archaism-1/</url>
+      
+        <content type="html"><![CDATA[<pre><code>      《折桂令·春情》平生不会相思，才会相思，便害相思。身似浮云，心如飞絮，气若游丝。空一缕余香在此，盼千金游子何之。证候来时，正是何时？灯半昏时，月半明时。             ————徐再思（元）</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 词曲 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 春情 </tag>
+            
+            <tag> 相思 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>绮怀十六首·其十五</title>
+      <link href="/2020/05/19/oldpoetry-1/"/>
+      <url>/2020/05/19/oldpoetry-1/</url>
+      
+        <content type="html"><![CDATA[<pre><code>    《绮怀十六首·其十五》几回花下坐吹箫，银汉红墙入望遥。似此星辰非昨夜，为谁风露立中宵。缠绵思尽抽残茧，宛转心伤剥后蕉。三五年时三五月，可怜杯酒不曾消。             ————黄景仁（清）</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 古诗 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 思念 </tag>
+            
+            <tag> 伤心 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我爱你，与你无关</title>
       <link href="/2020/05/19/modernpoetry-2/"/>
       <url>/2020/05/19/modernpoetry-2/</url>
