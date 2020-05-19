@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>我喜欢你是寂静的</title>
+      <link href="/2020/05/19/test/"/>
+      <url>/2020/05/19/test/</url>
+      
+        <content type="html"><![CDATA[<pre><code>    &lt;&lt;我喜欢你是寂静的&gt;&gt;我喜欢你是寂静的，仿佛你消失了一样你从远处聆听我，我的声音却无法触及你好像你的双眼已经飞去如同一个吻，封缄了你的唇如同所有充满，你从所有中浮现像我的灵魂，一只梦的蝴蝶我喜欢你是寂静的，好像你已远去你听起来像在悲叹，一只如鸽悲鸣的蝴蝶你从远处听见我，我的声音却无法触及你让我在你的沉默中安静无声让我借你的沉默与你言语交谈你的沉默明亮如灯你就像黑夜，拥有寂寞与群星你的沉默是星星的沉默，遥远而明亮遥远而哀伤彼时，一个字，一个微笑……已经足够而我已开始察觉幸福因为那不是真的幸福————巴勃鲁·聂鲁达（智利）</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 现代诗 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2020/05/15/hello-world/"/>
       <url>/2020/05/15/hello-world/</url>
