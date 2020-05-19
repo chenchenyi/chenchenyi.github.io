@@ -4,17 +4,52 @@
   
     
     <entry>
-      <title>我喜欢你是寂静的</title>
-      <link href="/2020/05/19/test/"/>
-      <url>/2020/05/19/test/</url>
+      <title>我爱你，与你无关</title>
+      <link href="/2020/05/19/modernpoetry-2/"/>
+      <url>/2020/05/19/modernpoetry-2/</url>
       
-        <content type="html"><![CDATA[<pre><code>    &lt;&lt;我喜欢你是寂静的&gt;&gt;我喜欢你是寂静的，仿佛你消失了一样你从远处聆听我，我的声音却无法触及你好像你的双眼已经飞去如同一个吻，封缄了你的唇如同所有充满，你从所有中浮现像我的灵魂，一只梦的蝴蝶我喜欢你是寂静的，好像你已远去你听起来像在悲叹，一只如鸽悲鸣的蝴蝶你从远处听见我，我的声音却无法触及你让我在你的沉默中安静无声让我借你的沉默与你言语交谈你的沉默明亮如灯你就像黑夜，拥有寂寞与群星你的沉默是星星的沉默，遥远而明亮遥远而哀伤彼时，一个字，一个微笑……已经足够而我已开始察觉幸福因为那不是真的幸福————巴勃鲁·聂鲁达（智利）</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<pre><code>    &lt;&lt;我爱你，与你无关&gt;&gt;即使是夜晚无尽的思念，也只属于我自己不会带到天明，也许它只存在于黑暗我爱你，与你无关就算我此刻站在你身边，依然闭着双眼不想让你看见，就让它隐藏在风里那为什么我记不起你的笑脸，却无限的看见思念熬不到天明，所以我选择先睡去好在梦中再一次的见到你怕藏不住眼光，于是我躲开不想你、不看你，我怕心慌真的啊！它只属于我的心只要你能幸福我的悲伤，你不需要管             ————歌德（德）</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
+      
+      <categories>
+          
+          <category> 现代诗 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 现代诗 </tag>
+            <tag> 爱 </tag>
+            
+            <tag> 成全 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我喜欢你是寂静的</title>
+      <link href="/2020/05/19/modernpoetry-1/"/>
+      <url>/2020/05/19/modernpoetry-1/</url>
+      
+        <content type="html"><![CDATA[<pre><code>    &lt;&lt;我喜欢你是寂静的&gt;&gt;我喜欢你是寂静的，仿佛你消失了一样你从远处聆听我，我的声音却无法触及你好像你的双眼已经飞去如同一个吻，封缄了你的唇如同所有充满，你从所有中浮现像我的灵魂，一只梦的蝴蝶我喜欢你是寂静的，好像你已远去你听起来像在悲叹，一只如鸽悲鸣的蝴蝶你从远处听见我，我的声音却无法触及你让我在你的沉默中安静无声让我借你的沉默与你言语交谈你的沉默明亮如灯你就像黑夜，拥有寂寞与群星你的沉默是星星的沉默，遥远而明亮遥远而哀伤彼时，一个字，一个微笑……已经足够而我已开始察觉幸福因为那不是真的幸福          ————巴勃鲁·聂鲁达（智利）</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 现代诗 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 爱 </tag>
+            
+            <tag> 沉默 </tag>
             
         </tags>
       

@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  
+  <subtitle>未来可期</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-05-19T05:15:11.447Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://chenchenyi.github.io/"/>
+  <updated>2020-05-19T06:36:27.904Z</updated>
+  <id>https://chenchenyi.github.io/</id>
   
   <author>
     <name>CCY</name>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我喜欢你是寂静的</title>
-    <link href="http://yoursite.com/2020/05/19/test/"/>
-    <id>http://yoursite.com/2020/05/19/test/</id>
-    <published>2020-05-19T02:29:40.837Z</published>
-    <updated>2020-05-19T05:15:11.447Z</updated>
+    <title>我爱你，与你无关</title>
+    <link href="https://chenchenyi.github.io/2020/05/19/modernpoetry-2/"/>
+    <id>https://chenchenyi.github.io/2020/05/19/modernpoetry-2/</id>
+    <published>2020-05-19T06:23:00.243Z</published>
+    <updated>2020-05-19T06:36:27.904Z</updated>
     
     <summary type="html">
     
@@ -36,15 +36,48 @@
     </summary>
     
     
+      <category term="现代诗" scheme="https://chenchenyi.github.io/categories/%E7%8E%B0%E4%BB%A3%E8%AF%97/"/>
     
-      <category term="现代诗" scheme="http://yoursite.com/tags/%E7%8E%B0%E4%BB%A3%E8%AF%97/"/>
+    
+      <category term="爱" scheme="https://chenchenyi.github.io/tags/%E7%88%B1/"/>
+    
+      <category term="成全" scheme="https://chenchenyi.github.io/tags/%E6%88%90%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我喜欢你是寂静的</title>
+    <link href="https://chenchenyi.github.io/2020/05/19/modernpoetry-1/"/>
+    <id>https://chenchenyi.github.io/2020/05/19/modernpoetry-1/</id>
+    <published>2020-05-19T02:29:40.837Z</published>
+    <updated>2020-05-19T06:37:13.905Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre&gt;&lt;code&gt;   
+        
+      
+    
+    </summary>
+    
+    
+      <category term="现代诗" scheme="https://chenchenyi.github.io/categories/%E7%8E%B0%E4%BB%A3%E8%AF%97/"/>
+    
+    
+      <category term="爱" scheme="https://chenchenyi.github.io/tags/%E7%88%B1/"/>
+    
+      <category term="沉默" scheme="https://chenchenyi.github.io/tags/%E6%B2%89%E9%BB%98/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/05/15/hello-world/"/>
-    <id>http://yoursite.com/2020/05/15/hello-world/</id>
+    <link href="https://chenchenyi.github.io/2020/05/15/hello-world/"/>
+    <id>https://chenchenyi.github.io/2020/05/15/hello-world/</id>
     <published>2020-05-15T06:55:28.052Z</published>
     <updated>2020-05-15T06:55:28.052Z</updated>
     
