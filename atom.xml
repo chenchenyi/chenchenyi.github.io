@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Smile</title>
   
   <subtitle>未来可期</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chenchenyi.github.io/"/>
-  <updated>2020-05-19T09:16:55.521Z</updated>
+  <updated>2020-05-20T03:16:43.515Z</updated>
   <id>https://chenchenyi.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://chenchenyi.github.io/2020/05/19/archaism-1/"/>
     <id>https://chenchenyi.github.io/2020/05/19/archaism-1/</id>
     <published>2020-05-19T09:10:53.667Z</published>
-    <updated>2020-05-19T09:16:55.521Z</updated>
+    <updated>2020-05-20T03:16:43.515Z</updated>
     
     <summary type="html">
     
@@ -151,7 +151,7 @@
     <link href="https://chenchenyi.github.io/2020/05/15/hello-world/"/>
     <id>https://chenchenyi.github.io/2020/05/15/hello-world/</id>
     <published>2020-05-15T06:55:28.052Z</published>
-    <updated>2020-05-15T06:55:28.052Z</updated>
+    <updated>2020-05-20T02:48:00.477Z</updated>
     
     <summary type="html">
     
