@@ -346,7 +346,7 @@
 
 <script>
     // 每天切换 banner 图.  Switch banner image every day.
-    $('.bg-cover').css('background-image', 'url(/medias/banner/3.jpg)');
+    $('.bg-cover').css('background-image', 'url(/medias/banner/5.jpg)');
 </script>
 
 
@@ -592,7 +592,7 @@
                 type: 'pie',
                 radius: '50%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [{"name":"词曲","value":1},{"name":"现代诗","value":2},{"name":"古诗","value":1}],
+                data: [{"name":"现代诗","value":2},{"name":"词曲","value":1},{"name":"古诗","value":1}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -616,7 +616,7 @@
         xAxis: [
             {
                 type: 'category',
-                data: ["爱","春情","相思","成全","沉默","思念","伤心"]
+                data: ["爱","沉默","春情","相思","成全","思念","伤心"]
             }
         ],
         yAxis: [
@@ -773,6 +773,18 @@
         <div class="tag-chips center-align">
             
             
+            <a href="/tags/%E7%88%B1/">
+                <span class="chip center-align waves-effect waves-light chip-default">爱</span>
+            </a>
+            
+            
+            
+            <a href="/tags/%E6%B2%89%E9%BB%98/">
+                <span class="chip center-align waves-effect waves-light chip-default">沉默</span>
+            </a>
+            
+            
+            
             <a href="/tags/%E6%98%A5%E6%83%85/">
                 <span class="chip center-align waves-effect waves-light chip-default">春情</span>
             </a>
@@ -785,20 +797,8 @@
             
             
             
-            <a href="/tags/%E7%88%B1/">
-                <span class="chip center-align waves-effect waves-light chip-default">爱</span>
-            </a>
-            
-            
-            
             <a href="/tags/%E6%88%90%E5%85%A8/">
                 <span class="chip center-align waves-effect waves-light chip-default">成全</span>
-            </a>
-            
-            
-            
-            <a href="/tags/%E6%B2%89%E9%BB%98/">
-                <span class="chip center-align waves-effect waves-light chip-default">沉默</span>
             </a>
             
             
@@ -878,12 +878,16 @@
 <style>
     .aplayer .aplayer-lrc p {
         
+        display: none;
+        
         font-size: 12px;
         font-weight: 700;
         line-height: 16px !important;
     }
 
     .aplayer .aplayer-lrc p.aplayer-lrc-current {
+        
+        display: none;
         
         font-size: 15px;
         color: #42b983;

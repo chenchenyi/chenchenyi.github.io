@@ -339,7 +339,7 @@
 
 <script>
     // 每天切换 banner 图.  Switch banner image every day.
-    $('.bg-cover').css('background-image', 'url(/medias/banner/3.jpg)');
+    $('.bg-cover').css('background-image', 'url(/medias/banner/5.jpg)');
 </script>
 
 
@@ -359,10 +359,28 @@
             <div class="tag-chips">
                 
                 
+                <a href="/tags/%E7%88%B1/" title="爱: 2">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-active "
+                            data-tagname="爱" style="background-color: #F9EBEA;">爱
+                        <span class="tag-length">2</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/%E6%B2%89%E9%BB%98/" title="沉默: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="沉默" style="background-color: #F5EEF8;">沉默
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
                 <a href="/tags/%E6%98%A5%E6%83%85/" title="春情: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="春情" style="background-color: #F9EBEA;">春情
+                            data-tagname="春情" style="background-color: #D5F5E3;">春情
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -371,17 +389,8 @@
                 <a href="/tags/%E7%9B%B8%E6%80%9D/" title="相思: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="相思" style="background-color: #F5EEF8;">相思
+                            data-tagname="相思" style="background-color: #E8F8F5;">相思
                         <span class="tag-length">1</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/tags/%E7%88%B1/" title="爱: 2">
-                    <span class="chip center-align waves-effect waves-light
-                             chip-active "
-                            data-tagname="爱" style="background-color: #D5F5E3;">爱
-                        <span class="tag-length">2</span>
                     </span>
                 </a>
                 
@@ -389,16 +398,7 @@
                 <a href="/tags/%E6%88%90%E5%85%A8/" title="成全: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="成全" style="background-color: #E8F8F5;">成全
-                        <span class="tag-length">1</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/tags/%E6%B2%89%E9%BB%98/" title="沉默: 1">
-                    <span class="chip center-align waves-effect waves-light
-                             chip-default "
-                            data-tagname="沉默" style="background-color: #FEF9E7;">沉默
+                            data-tagname="成全" style="background-color: #FEF9E7;">成全
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -508,12 +508,16 @@
 <style>
     .aplayer .aplayer-lrc p {
         
+        display: none;
+        
         font-size: 12px;
         font-weight: 700;
         line-height: 16px !important;
     }
 
     .aplayer .aplayer-lrc p.aplayer-lrc-current {
+        
+        display: none;
         
         font-size: 15px;
         color: #42b983;
